@@ -1,24 +1,38 @@
-# README
+# おひとりさま
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+一人旅の旅行プランを検索して参考にしたり、自分の経験した旅行プランを共有できるSNSサイト
 
-Things you may want to cover:
 
-* Ruby version
+### テーマを選んだ理由
+もともと旅行が好きで、一人旅にもチャレンジしてみたいと思っていました。しかし、一人旅となると一人で全てのプランを考えなければいけないため、行き先に悩んだり、宿泊先や予算を調べるのに時間がかかってしまい、結局実現できないことが多くありました。また、一人旅だと移動手段も限られてしまいます。
+そこで、私は一人旅のプラン作りを簡単にするために、このサイトの制作を決めました。一人旅が好きな方、私のように一人旅にチャレンジしたいけど準備が面倒だと感じている方々や、予算や移動手段などの条件を持つ方々が、このサイトを通じて多くの旅行を楽しむ手助けができればと思っています。
 
-* System dependencies
 
-* Configuration
+### ターゲットユーザー
+- 一人旅が好きな方
+- 一人旅に挑戦してみたいと思っている方
+- 旅行の準備やプラン作りが面倒だと感じている方
+- 旅行の予算や移動手段に制約がある方
 
-* Database creation
 
-* Database initialization
+### 主な利用シーン
+- 旅行の行先選定に困っているとき
+- 条件に合う旅行プランを探したいとき
+- 自分の経験した旅行プランを共有したいとき
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 設計書
+後ほど作成予定
 
-* Deployment instructions
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML, CSS, JavaScript, Ruby, SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：cloud9
 
-* ...
+## 使用素材
+- フリー画像素材として以下を使用
+  - Unsplash (https://unsplash.com/ja)
