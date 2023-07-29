@@ -31,7 +31,7 @@
 - 言語：HTML, CSS, JavaScript, Ruby, SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
-- IDE：cloud9
+- IDE：Cloud9
 
 ## 使用素材
 - フリー画像素材として以下を使用
